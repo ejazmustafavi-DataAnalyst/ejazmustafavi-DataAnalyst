@@ -1,19 +1,35 @@
-<h1 align="left">Hey 👋</h1>
+#  👋 Hi, I’m Muhammad Ejaz 💫
 
 ###
 
-<p align="left">👋 Hi, I’m Muhammad Ejaz</p>
+
+<p align="left">🎯 Data Analyst with hands-on experience in transforming raw data into meaningful insights and interactive dashboards.<br>
+ 
+  ### 🔍  **What I Do**:
+
+- Analyze and clean data using **Python** (pandas, NumPy)
+- Create insightful dashboards using **Power BI, Tableau, and Excel**
+- Perform **Exploratory Data Analysis (EDA)** to uncover trends and patterns
+- Build business-focused reports for **Finance, Sales, HR, and Operations
+
+### 🛠 **Tools & Technologies**: <br>
+
+- **Python**: pandas, NumPy, Matplotlib
+- **Data Visualization**: Power BI, Tableau
+- **Excel**: Advanced formulas, Pivot Tables
+- **SQL**: Querying & Analysis
+
+
+### 📊 **Featured Work**:
+
+- Interactive dashboards delivering actionable business insights
+- Exploratory Data Analysis (EDA) projects using real-world datasets
+- Data visualization projects focused on data-driven decision-making
+<br>
+📫 Feel free to explore my repositories or connect — I’m open to collaboration and learning opportunities.</p>
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">🎯 Data Analyst with hands-on experience in transforming raw data into meaningful insights and interactive dashboards.<br><br>🔍 What I Do<br><br>Analyze and clean data using Python (pandas, numpy)<br><br>Create insightful dashboards with Power BI,Tableau & Excel <br><br>Perform Exploratory Data Analysis (EDA) to uncover trends and patterns<br><br>Build business-focused reports for finance,Sales, HR, and operational data<br><br>🛠 Tools & Technologies<br><br>Python | pandas | numpy | matplotlib<br><br>Power BI | Tableau<br><br>Excel (Advanced formulas, Pivot Tables)<br><br>SQL (querying & analysis)<br><br>📊 Featured Work<br><br>Interactive dashboards for business insights<br><br>EDA projects on real-world datasets<br><br>Data visualization projects focused on decision-making<br><br>🚀 Currently<br><br>Improving advanced analytics & visualization skills<br><br>Working on more end-to-end data analysis projects<br><br>📫 Feel free to explore my repositories or connect — I’m open to collaboration and learning opportunities.</p>
-
-###
-
-<h2 align="left"></h2>
-
-###
+## 🌐 Links:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mejazmustafavi)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ejazmustafavi@gmail.com)
